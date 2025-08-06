@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\wongp\source\repos\P2\P2\main.cpp(14,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wongp\source\repos\P2\P2\main.cpp(17,17): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wongp\source\repos\P2\P2\main.cpp(180,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wongp\source\repos\P2\P2\main.cpp(180,9): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wongp\source\repos\P2\P2\main.cpp(181,4): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\wongp\source\repos\P2\P2\main.cpp(212,23): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\wongp\source\repos\P2\P2\main.cpp(255,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\wongp\source\repos\P2\P2\main.cpp(256,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  P2.vcxproj -> C:\Users\wongp\source\repos\P2\x64\Debug\P2.exe
